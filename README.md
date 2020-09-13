@@ -1,1 +1,1 @@
-# javascript-calculator-es6
+# Javascript Calculator-ES6
